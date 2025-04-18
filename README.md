@@ -41,7 +41,8 @@
 │   ├── Nginx反向代理
 │   └── AWS EC2 + S3
 
-开发协作
+
+### 开发协作
 团队成员
 Alex Chen (@alexchen-dev)
 
