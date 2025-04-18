@@ -22,26 +22,6 @@
 - 亚秒级响应速度（Lighthouse评分90+）
 - 跨浏览器兼容（IE11+/现代浏览器）
 
-## 技术架构
-
-```plaintext
-├── 前端（React 18 + TypeScript）
-│   ├── 组件库：Material-UI v5
-│   ├── 状态管理：Redux Toolkit
-│   ├── 路由：React Router 6
-│   └── 构建：Vite 4
-
-├── 后端（Node.js 18 + Express）
-│   ├── ORM：Prisma 4
-│   ├── 数据库：PostgreSQL 14
-│   └── 搜索引擎：Elasticsearch 8
-
-├── 基础设施
-│   ├── Docker容器化部署
-│   ├── Nginx反向代理
-│   └── AWS EC2 + S3
-
-
 ### 开发协作
 团队成员
 Alex Chen (@alexchen-dev)
@@ -118,3 +98,25 @@ MIT License - 详见 LICENSE 文件
 - `ARCHITECTURE.md` 技术架构决策文档
 - `SECURITY.md` 安全实施方案
 - `CONTRIBUTING.md` 详细贡献者指南
+
+
+## 技术架构
+
+```plaintext
+├── 前端（React 18 + TypeScript）
+│   ├── 组件库：Material-UI v5
+│   ├── 状态管理：Redux Toolkit
+│   ├── 路由：React Router 6
+│   └── 构建：Vite 4
+
+├── 后端（Node.js 18 + Express）
+│   ├── ORM：Prisma 4
+│   ├── 数据库：PostgreSQL 14
+│   └── 搜索引擎：Elasticsearch 8
+
+├── 基础设施
+│   ├── Docker容器化部署
+│   ├── Nginx反向代理
+│   └── AWS EC2 + S3
+
+
