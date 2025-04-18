@@ -22,7 +22,7 @@
 - 亚秒级响应速度（Lighthouse评分90+）
 - 跨浏览器兼容（IE11+/现代浏览器）
 
-### 开发协作
+开发协作
 团队成员
 Alex Chen (@alexchen-dev)
 
@@ -59,7 +59,8 @@ Git Flow工作流
 
 功能分支命名规范：feat/功能名称 / fix/问题描述
 
-快速启动
+# 快速启动
+
 # 克隆仓库
 git clone https://github.com/your-org/whitehouse-clone.git
 
@@ -74,32 +75,6 @@ cp .env.example .env
 docker-compose up -d
 yarn dev  # 前端
 npm run dev  # 后端
-贡献指南
-Fork本仓库并创建特性分支
-
-提交符合Angular规范的commit message
-
-发起Pull Request并关联对应issue
-
-通过自动化测试后由核心成员合并
-许可证
-MIT License - 详见 LICENSE 文件
-
-复制
-
-### 关键要素说明：
-1. 技术深度：明确指定具体版本号，展示技术选型的前瞻性
-2. 安全规范：强调CSP、SQL注入防护等企业级安全要求
-3. 协作细节：包含每日站会时间、代码审查标准等实操细节
-4. 基础设施：明确容器化部署方案和云服务提供商
-5. 质量保障：要求单元测试覆盖率与Lighthouse评分标准
-
-建议将本README与以下文件配合使用：
-- `ARCHITECTURE.md` 技术架构决策文档
-- `SECURITY.md` 安全实施方案
-- `CONTRIBUTING.md` 详细贡献者指南
-
-
 ## 技术架构
 
 ```plaintext
