@@ -1,29 +1,50 @@
-我们是白锦旗和周永志，一个用键盘改变世界的代码狂魔。这里的每一行代码都凝聚着偏执与热爱，每一次Commit都是对完美的暴力追求。
+我是Max，一个用键盘改变世界的代码狂魔。这里的每一行代码都凝聚着偏执与热爱，每一次Commit都是对完美的暴力追求。
 
 🔧 技术栈：
-语言/框架 × 语言/框架 × 语言/框架 —— 用最硬的工具，解最脏的问题。
+Python × Go × Rust —— 用最硬的工具，解最脏的问题。
+Kubernetes × AWS × 分布式系统 —— 在云原生世界里翻江倒海。
+LLM × AI Agents × 自动化 —— 让机器学会自己写代码（然后取代我）。
 
 💡 哲学：
 
-懒惰是美德（所以写自动化脚本）
+懒惰是美德（所以写自动化脚本让机器干活）
 
-重复是原罪（所以抽象到极致）
+重复是原罪（所以抽象到极致，DRY or Die）
 
-If it works, refactor it!
+If it works, refactor it!（性能优化是永无止境的修行）
+
+“Move fast and break things”（但记得先写单元测试）
 
 🔥 近期目标：
 
-用[技术/项目]颠覆[某个领域]的认知
+用Rust重写一切，让Python羞愧地低下头
 
-把[某个无聊的事]的效率提升1000%
+构建一个自进化AI Agent，能自己Debug自己的代码
 
-在代码里藏一个递归冷笑话（找到了请PR）
+把CI/CD流水线优化到<5秒，否则算我输
+
+在代码里藏一个递归冷笑话（找到了请PR，奖励一个:beer:）
 
 📜 格言：
+
 “Talk is cheap. Show me the benchmark.”
 
+“Any problem in computer science can be solved with another layer of abstraction… except too many layers of abstraction.”
+
+“sudo rm -rf /* —— 有时候，毁灭是为了更好的重建。”
+
 🤝 合作？
-如果你也认为rm -rf /是一种生活态度，欢迎Fork、PR或直接敲开我的数字大门。
+如果你也认为：
+
+vim > emacs（但最好别吵这个）
+
+tabs > spaces（不然我们可能没法做朋友）
+
+git rebase是唯一正确的历史改写方式
+
+monorepo是宇宙终极答案
+
+欢迎Fork、PR，或者直接nc -v [我的IP] 22来场技术Battle。
 
 🌌 星辰大海，代码永存。
-
+（P.S. 如果发现Bug，请假装没看见，或者最好直接提个PR修了）
